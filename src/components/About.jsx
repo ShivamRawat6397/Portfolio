@@ -14,7 +14,7 @@ const About = () => {
         <div className="md:ml-8">
           <h2 className="text-2xl font-bold mb-4">Overview</h2>
           <p className="mb-2">
-            Hi there! 👋 I'm Shivam Rawat3 🌟, a dedicated and innovative web
+            Hi there! 👋 I'm Shivam Rawat 🌟, a dedicated and innovative web
             developer passionate about crafting immersive digital experiences.
             With a Master's in Computer Applications from Graphic Era Hill
             University and a Bachelor's from the same prestigious institution,
